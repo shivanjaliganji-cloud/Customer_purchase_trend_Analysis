@@ -1,6 +1,8 @@
 # Customer_purchase_trend_Analysis
 Data Analytics Final Project Analysis Using Power BI, Python, &amp; SQL
+
 📊 Customer Purchase Trend Analysis
+
 📌 Project Overview
 
 This project analyzes customer purchase behavior using SQL, Python, and Power BI.
